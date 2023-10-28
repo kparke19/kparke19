@@ -6,7 +6,7 @@
   - [Creating a live SOC / Honeynet in Azure](https://github.com/kparke19/Cloud-SOC)
 
 - <b>Microsoft windows Defender and Firewall </b>
-  - [Configuring Microsoft Windows Defender Firewall](https://github.com/kparke19/Microsoft-Windows-Defender-and-Firewall)
+  - [Configuring Microsoft Windows Defender and Firewall](https://github.com/kparke19/Microsoft-Windows-Defender-and-Firewall)
 
 
 <h2> 🤳 Connect with me:</h2>
