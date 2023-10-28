@@ -5,8 +5,8 @@
 - <b>Azure / Cloud Cybersecurity Projects </b>
   - [Creating a live SOC / Honeynet in Azure](https://github.com/kparke19/Cloud-SOC)
 
-- <b>Microsoft windows Defender and Firewall </b>
-  - [Configuring Microsoft Windows Defender and Firewall](https://github.com/kparke19/Microsoft-Windows-Defender-and-Firewall)
+- <b>Microsoft windows Defender Antivirus </b>
+  - [Configuring Microsoft Windows Defender Antivirus](https://github.com/kparke19/Microsoft-Windows-Defender-and-Firewall)
 
 
 <h2> 🤳 Connect with me:</h2>
